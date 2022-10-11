@@ -249,6 +249,7 @@ ul, li {
 }
 
 #works .card-image-lunch {
+  margin: 0px auto 8px auto;
   width: 180px;
 }
 
@@ -263,6 +264,7 @@ ul, li {
 
 #works .card-caption-info {
   font-size: 12px;
+  margin: 0px 10px;
 }
 
 #works .card-caption-url {
