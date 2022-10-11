@@ -248,6 +248,13 @@ ul, li {
   height: 245px;
 }
 
+#works .card-image-lunch {
+  display: block;
+  margin-bottom: 8px;
+  height: 245px;
+  width: 180px;
+}
+
 #works .card-caption {
   text-align: left;
 }
