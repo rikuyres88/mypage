@@ -249,9 +249,6 @@ ul, li {
 }
 
 #works .card-image-lunch {
-  display: block;
-  margin-bottom: 8px;
-  height: 245px;
   width: 180px;
 }
 
